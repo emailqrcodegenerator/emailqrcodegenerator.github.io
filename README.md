@@ -2,7 +2,7 @@
 
 Generate a QR code that opens the user's default email client with a pre-filled recipient, subject, and message body — instantly and for free.
 
-🔗 Try it here: [https://goqrgen.com/generator](Email QR Code Generator)
+🔗 Try it here: [Email QR Code Generator](https://goqrgen.com/generator)
 
 ---
 
